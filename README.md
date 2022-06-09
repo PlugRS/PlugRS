@@ -1,27 +1,26 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">I am passionate about building products using cutting cutting-edge technologies that benefit the society.</h3>
+<h3 align="center">I am passionate about building products that benefit the society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plugrs&label=Profile%20views&color=0e75b6&style=flat" alt="plugrs" /> </p>
 
-- 🔭 I’m currently working on [BlockMetric](https://www.blockmetric.tech/)
+- 🔭 I’m currently working as a Research Intern at [Samsung R&D](https://www.samsungprism.com/)
 
-- 🌱 I’m currently learning **Django, R, Edge Computing, MySQL**
+- 🌱 I’m currently learning **ML, Finance, Edge Computing, MySQL**
 
-- 👯 I’m looking to collaborate on **FinTech Projects**
+- 👯 I’m looking to collaborate on my startup projects: **Blockchain Analysis Tool & Sustainable Investing Platform**
 
-- 🤝 I’m looking for help with **building a novel Sustainable Investment Platform**
+- 🤝 I’m looking for help with **building my projects**. Do reach out to know more, would love to collborate
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/rohitsingh184](https://www.behance.net/rohitsingh184)
+- 👨‍💻 All of my project ideas/designs are available at [Behance](https://www.behance.net/rohitsingh184)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rohit-singh-717b50118/](https://www.linkedin.com/in/rohit-singh-717b50118/)
+- 📝 While i build my portfolio website, connect with me over [LinkedIn](https://www.linkedin.com/in/rohit-singh-717b50118/)
 
-- 💬 Ask me about **Sustainable Finance & Startups**
+- 💬 I love to talk about **Startup Economy & Sustainable Finance**
 
-- 📫 How to reach me **rohit142001@hotmail.com**
+- 📫 My email: **rohit142001singh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FD6sr1RgDgiecufNn6gQMPzmUXEQzV_i/view?usp=sharing](https://drive.google.com/file/d/1FD6sr1RgDgiecufNn6gQMPzmUXEQzV_i/view?usp=sharing)
+- 📄 Know more about my experiences: [RESUME](https://drive.google.com/file/d/1DSArATEX25a2q-OAIYP4dgin2LclfPKk/view?usp=sharing)
 
-- ⚡ Fun fact **From sports to tech to finance, I love exploring everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
