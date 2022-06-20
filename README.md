@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **building my projects**. Do reach out to know more, would love to collborate
 
-- 👨‍💻 All of my project ideas/designs are available at [Behance](https://www.behance.net/rohitsingh184)
+- 👨‍💻 Some of my project ideas/designs are available at [Behance](https://www.behance.net/rohitsingh184)
 
 - 💬 I love to talk about **Startup Economy & Sustainable Finance**
 
