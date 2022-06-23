@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plugrs&label=Profile%20views&color=0e75b6&style=flat" alt="plugrs" /> </p>
 
-- 🔭 I’m currently working as a Research Intern at [Samsung R&D](https://www.samsungprism.com/)
+- 🔭 I’m currently working as a Research Intern at [Samsung Prism](https://www.samsungprism.com/)
 
 - 🌱 I’m currently learning **ML, Finance, Edge Computing, MySQL**
 
